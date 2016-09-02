@@ -1,0 +1,17 @@
+{
+  "name": "gmailCloneAngular",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "https://github.com/x-1337-x/gmailCloneAngular",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jQuery": "^3.1.0"
+  }
+}

@@ -11,7 +11,5 @@
     "test",
     "tests"
   ],
-  "dependencies": {
-    "jQuery": "^3.1.0"
-  }
+  "dependencies": {}
 }

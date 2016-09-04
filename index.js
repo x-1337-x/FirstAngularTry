@@ -18,8 +18,4 @@ app.get('/', function (req, res) {
 
 app.use(express.static(path.resolve('./public')));
 
-app.use(express.static(path.resolve('../gmailCloneAngular')));
-
-// app.use(apiRouter);
-
-// apiRouter.route('/inbox').get();
+app.use(express.static(path.resolve('../Angular_First_Test_Task')));
